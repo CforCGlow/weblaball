@@ -13,9 +13,6 @@ labs/
   lab-05-fetch-api/       + data/workshop.json, Fetch, public API
 ```
 
-## Run
-- Lab 01–04: open `index.html` in browser.
-- Lab 05: open folder in VS Code → Open with Live Server (fetch requires http).
 
 ## Stack
 HTML5, CSS3, Vanilla JavaScript. No frameworks.
